@@ -1,0 +1,738 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP EXI-KBL400
+D Puente rectificador monofásico de 4A
+K bridge, rectifier
+F http://www.eicsemi.com/datasheet/KBL400.PDF
+$ENDCMP
+#
+$CMP EXI-KBL401
+D Puente rectificador monofásico de 4A
+K bridge, rectifier
+F http://www.eicsemi.com/datasheet/KBL400.PDF
+$ENDCMP
+#
+$CMP EXI-KBL402
+D Puente rectificador monofásico de 4A
+K bridge, rectifier
+F http://www.eicsemi.com/datasheet/KBL400.PDF
+$ENDCMP
+#
+$CMP EXI-KBL404
+D Puente rectificador monofásico de 4A
+K bridge, rectifier
+F http://www.eicsemi.com/datasheet/KBL400.PDF
+$ENDCMP
+#
+$CMP EXI-KBL406
+D Puente rectificador monofásico de 4A
+K bridge, rectifier
+F http://www.eicsemi.com/datasheet/KBL400.PDF
+$ENDCMP
+#
+$CMP EXI-KBL408
+D Puente rectificador monofásico de 4A
+K bridge, rectifier
+F http://www.eicsemi.com/datasheet/KBL400.PDF
+$ENDCMP
+#
+$CMP EXI-KBL410
+D Puente rectificador monofásico de 4A
+K bridge, rectifier
+F http://www.eicsemi.com/datasheet/KBL400.PDF
+$ENDCMP
+#
+$CMP EXI_1B4B41
+D Puente rectificador
+$ENDCMP
+#
+$CMP EXI_1B4B42
+D Puente rectificador
+$ENDCMP
+#
+$CMP EXI_1D4B41
+D Puente rectificador
+$ENDCMP
+#
+$CMP EXI_1G4B41
+D Puente rectificador
+$ENDCMP
+#
+$CMP EXI_1G4B42
+D Puente rectificador
+$ENDCMP
+#
+$CMP EXI_1J4B41
+D Puente rectificador
+$ENDCMP
+#
+$CMP EXI_1J4B42
+D Puente rectificador
+$ENDCMP
+#
+$CMP EXI_1N4001
+D Diodo rectificador de baja potencia
+$ENDCMP
+#
+$CMP EXI_1N4002
+D Diodo rectificador de baja potencia
+$ENDCMP
+#
+$CMP EXI_1N4003
+D Diodo rectificador de baja potencia
+$ENDCMP
+#
+$CMP EXI_1N4004
+D Diodo rectificador de baja potencia
+$ENDCMP
+#
+$CMP EXI_1N4005
+D Diodo rectificador de baja potencia
+$ENDCMP
+#
+$CMP EXI_1N4006
+D Diodo rectificador de baja potencia
+$ENDCMP
+#
+$CMP EXI_1N4007
+D Diodo rectificador de baja potencia
+$ENDCMP
+#
+$CMP EXI_1N4148
+D Diodo de conmutación de pequeña señal
+$ENDCMP
+#
+$CMP EXI_1N4448
+D Diodo de conmutación de pequeña señal
+$ENDCMP
+#
+$CMP EXI_1N4728A
+D Diodo regulador de voltaje
+$ENDCMP
+#
+$CMP EXI_1N4729
+D Diodo regulador de voltaje
+$ENDCMP
+#
+$CMP EXI_1N4729A
+D Diodo regulador de voltaje
+$ENDCMP
+#
+$CMP EXI_1N4730
+D Diodo regulador de voltaje
+$ENDCMP
+#
+$CMP EXI_1N4730A
+D Diodo regulador de voltaje
+$ENDCMP
+#
+$CMP EXI_1N4731
+D Diodo regulador de voltaje
+$ENDCMP
+#
+$CMP EXI_1N4731A
+D Diodo regulador de voltaje
+$ENDCMP
+#
+$CMP EXI_1N4732
+D Diodo regulador de voltaje
+$ENDCMP
+#
+$CMP EXI_1N4732A
+D Diodo regulador de voltaje
+$ENDCMP
+#
+$CMP EXI_1N4733
+D Diodo regulador de voltaje
+$ENDCMP
+#
+$CMP EXI_1N4733A
+D Diodo regulador de voltaje
+$ENDCMP
+#
+$CMP EXI_1N4734
+D Diodo regulador de voltaje
+$ENDCMP
+#
+$CMP EXI_1N4734A
+D Diodo regulador de voltaje
+$ENDCMP
+#
+$CMP EXI_1N4735
+D Diodo regulador de voltaje
+$ENDCMP
+#
+$CMP EXI_1N4735A
+D Diodo regulador de voltaje
+$ENDCMP
+#
+$CMP EXI_1N4736
+D Diodo regulador de voltaje
+$ENDCMP
+#
+$CMP EXI_1N4736A
+D Diodo regulador de voltaje
+$ENDCMP
+#
+$CMP EXI_1N4737
+D Diodo regulador de voltaje
+$ENDCMP
+#
+$CMP EXI_1N4737A
+D Diodo regulador de voltaje
+$ENDCMP
+#
+$CMP EXI_1N4738
+D Diodo regulador de voltaje
+$ENDCMP
+#
+$CMP EXI_1N4738A
+D Diodo regulador de voltaje
+$ENDCMP
+#
+$CMP EXI_1N4739
+D Diodo regulador de voltaje
+$ENDCMP
+#
+$CMP EXI_1N4739A
+D Diodo regulador de voltaje
+$ENDCMP
+#
+$CMP EXI_1N4740
+D Diodo regulador de voltaje
+$ENDCMP
+#
+$CMP EXI_1N4740A
+D Diodo regulador de voltaje
+$ENDCMP
+#
+$CMP EXI_1N4741
+D Diodo regulador de voltaje
+$ENDCMP
+#
+$CMP EXI_1N4741A
+D Diodo regulador de voltaje
+$ENDCMP
+#
+$CMP EXI_1N4742
+D Diodo regulador de voltaje
+$ENDCMP
+#
+$CMP EXI_1N4742A
+D Diodo regulador de voltaje
+$ENDCMP
+#
+$CMP EXI_1N4743
+D Diodo regulador de voltaje
+$ENDCMP
+#
+$CMP EXI_1N4743A
+D Diodo regulador de voltaje
+$ENDCMP
+#
+$CMP EXI_1N4744
+D Diodo regulador de voltaje
+$ENDCMP
+#
+$CMP EXI_1N4744A
+D Diodo regulador de voltaje
+$ENDCMP
+#
+$CMP EXI_1N4745
+D Diodo regulador de voltaje
+$ENDCMP
+#
+$CMP EXI_1N4745A
+D Diodo regulador de voltaje
+$ENDCMP
+#
+$CMP EXI_1N4746
+D Diodo regulador de voltaje
+$ENDCMP
+#
+$CMP EXI_1N4746A
+D Diodo regulador de voltaje
+$ENDCMP
+#
+$CMP EXI_1N4747
+D Diodo regulador de voltaje
+$ENDCMP
+#
+$CMP EXI_1N4747A
+D Diodo regulador de voltaje
+$ENDCMP
+#
+$CMP EXI_1N4748
+D Diodo regulador de voltaje
+$ENDCMP
+#
+$CMP EXI_1N4748A
+D Diodo regulador de voltaje
+$ENDCMP
+#
+$CMP EXI_1N4749
+D Diodo regulador de voltaje
+$ENDCMP
+#
+$CMP EXI_1N4749A
+D Diodo regulador de voltaje
+$ENDCMP
+#
+$CMP EXI_1N4750
+D Diodo regulador de voltaje
+$ENDCMP
+#
+$CMP EXI_1N4751
+D Diodo regulador de voltaje
+$ENDCMP
+#
+$CMP EXI_1N4752
+D Diodo regulador de voltaje
+$ENDCMP
+#
+$CMP EXI_1N4753
+D Diodo regulador de voltaje
+$ENDCMP
+#
+$CMP EXI_1N4754
+D Diodo regulador de voltaje
+$ENDCMP
+#
+$CMP EXI_1N4755
+D Diodo regulador de voltaje
+$ENDCMP
+#
+$CMP EXI_1N4756
+D Diodo regulador de voltaje
+$ENDCMP
+#
+$CMP EXI_1N4757
+D Diodo regulador de voltaje
+$ENDCMP
+#
+$CMP EXI_1N4758
+D Diodo regulador de voltaje
+$ENDCMP
+#
+$CMP EXI_1N4759
+D Diodo regulador de voltaje
+$ENDCMP
+#
+$CMP EXI_1N4760
+D Diodo regulador de voltaje
+$ENDCMP
+#
+$CMP EXI_1N4761
+D Diodo regulador de voltaje
+$ENDCMP
+#
+$CMP EXI_1N4762
+D Diodo regulador de voltaje
+$ENDCMP
+#
+$CMP EXI_1N4763
+D Diodo regulador de voltaje
+$ENDCMP
+#
+$CMP EXI_1N4764
+D Diodo regulador de voltaje
+$ENDCMP
+#
+$CMP EXI_1N5400
+D Diodo rectificador
+$ENDCMP
+#
+$CMP EXI_1N5401
+D Diodo rectificador
+$ENDCMP
+#
+$CMP EXI_1N5402
+D Diodo rectificador
+$ENDCMP
+#
+$CMP EXI_1N5403
+D Diodo rectificador
+$ENDCMP
+#
+$CMP EXI_1N5404
+D Diodo rectificador
+$ENDCMP
+#
+$CMP EXI_1N5405
+D Diodo rectificador
+$ENDCMP
+#
+$CMP EXI_1N5406
+D Diodo rectificador
+$ENDCMP
+#
+$CMP EXI_1N5407
+D Diodo rectificador
+$ENDCMP
+#
+$CMP EXI_1N5408
+D Diodo rectificador
+$ENDCMP
+#
+$CMP EXI_1N914
+D Diodo de conmutación de pequeña señal
+$ENDCMP
+#
+$CMP EXI_1N914A
+D Diodo de conmutación de pequeña señal
+$ENDCMP
+#
+$CMP EXI_1N914B
+D Diodo de conmutación de pequeña señal
+$ENDCMP
+#
+$CMP EXI_1N916
+D Diodo de conmutación de pequeña señal
+$ENDCMP
+#
+$CMP EXI_1N916A
+D Diodo de conmutación de pequeña señal
+$ENDCMP
+#
+$CMP EXI_1N916B
+D Diodo de conmutación de pequeña señal
+$ENDCMP
+#
+$CMP EXI_BAT42
+D Diodo Schottky de pequeña señal
+$ENDCMP
+#
+$CMP EXI_BAT43
+D Diodo Schottky de pequeña señal
+$ENDCMP
+#
+$CMP EXI_BZX85_C10
+D Diodo regulador de voltaje
+$ENDCMP
+#
+$CMP EXI_BZX85_C100
+D Diodo regulador de voltaje
+$ENDCMP
+#
+$CMP EXI_BZX85_C11
+D Diodo regulador de voltaje
+$ENDCMP
+#
+$CMP EXI_BZX85_C110
+D Diodo regulador de voltaje
+$ENDCMP
+#
+$CMP EXI_BZX85_C12
+D Diodo regulador de voltaje
+$ENDCMP
+#
+$CMP EXI_BZX85_C120
+D Diodo regulador de voltaje
+$ENDCMP
+#
+$CMP EXI_BZX85_C13
+D Diodo regulador de voltaje
+$ENDCMP
+#
+$CMP EXI_BZX85_C130
+D Diodo regulador de voltaje
+$ENDCMP
+#
+$CMP EXI_BZX85_C15
+D Diodo regulador de voltaje
+$ENDCMP
+#
+$CMP EXI_BZX85_C150
+D Diodo regulador de voltaje
+$ENDCMP
+#
+$CMP EXI_BZX85_C16
+D Diodo regulador de voltaje
+$ENDCMP
+#
+$CMP EXI_BZX85_C160
+D Diodo regulador de voltaje
+$ENDCMP
+#
+$CMP EXI_BZX85_C18
+D Diodo regulador de voltaje
+$ENDCMP
+#
+$CMP EXI_BZX85_C180
+D Diodo regulador de voltaje
+$ENDCMP
+#
+$CMP EXI_BZX85_C20
+D Diodo regulador de voltaje
+$ENDCMP
+#
+$CMP EXI_BZX85_C200
+D Diodo regulador de voltaje
+$ENDCMP
+#
+$CMP EXI_BZX85_C22
+D Diodo regulador de voltaje
+$ENDCMP
+#
+$CMP EXI_BZX85_C24
+D Diodo regulador de voltaje
+$ENDCMP
+#
+$CMP EXI_BZX85_C27
+D Diodo regulador de voltaje
+$ENDCMP
+#
+$CMP EXI_BZX85_C2V7
+D Diodo regulador de voltaje
+$ENDCMP
+#
+$CMP EXI_BZX85_C30
+D Diodo regulador de voltaje
+$ENDCMP
+#
+$CMP EXI_BZX85_C33
+D Diodo regulador de voltaje
+$ENDCMP
+#
+$CMP EXI_BZX85_C36
+D Diodo regulador de voltaje
+$ENDCMP
+#
+$CMP EXI_BZX85_C39
+D Diodo regulador de voltaje
+$ENDCMP
+#
+$CMP EXI_BZX85_C3V0
+D Diodo regulador de voltaje
+$ENDCMP
+#
+$CMP EXI_BZX85_C3V3
+D Diodo regulador de voltaje
+$ENDCMP
+#
+$CMP EXI_BZX85_C3V6
+D Diodo regulador de voltaje
+$ENDCMP
+#
+$CMP EXI_BZX85_C3V9
+D Diodo regulador de voltaje
+$ENDCMP
+#
+$CMP EXI_BZX85_C43
+D Diodo regulador de voltaje
+$ENDCMP
+#
+$CMP EXI_BZX85_C47
+D Diodo regulador de voltaje
+$ENDCMP
+#
+$CMP EXI_BZX85_C4V3
+D Diodo regulador de voltaje
+$ENDCMP
+#
+$CMP EXI_BZX85_C4V7
+D Diodo regulador de voltaje
+$ENDCMP
+#
+$CMP EXI_BZX85_C51
+D Diodo regulador de voltaje
+$ENDCMP
+#
+$CMP EXI_BZX85_C56
+D Diodo regulador de voltaje
+$ENDCMP
+#
+$CMP EXI_BZX85_C5V1
+D Diodo regulador de voltaje
+$ENDCMP
+#
+$CMP EXI_BZX85_C5V6
+D Diodo regulador de voltaje
+$ENDCMP
+#
+$CMP EXI_BZX85_C62
+D Diodo regulador de voltaje
+$ENDCMP
+#
+$CMP EXI_BZX85_C68
+D Diodo regulador de voltaje
+$ENDCMP
+#
+$CMP EXI_BZX85_C6V2
+D Diodo regulador de voltaje
+$ENDCMP
+#
+$CMP EXI_BZX85_C6V8
+D Diodo regulador de voltaje
+$ENDCMP
+#
+$CMP EXI_BZX85_C75
+D Diodo regulador de voltaje
+$ENDCMP
+#
+$CMP EXI_BZX85_C7V5
+D Diodo regulador de voltaje
+$ENDCMP
+#
+$CMP EXI_BZX85_C82
+D Diodo regulador de voltaje
+$ENDCMP
+#
+$CMP EXI_BZX85_C8V2
+D Diodo regulador de voltaje
+$ENDCMP
+#
+$CMP EXI_BZX85_C91
+D Diodo regulador de voltaje
+$ENDCMP
+#
+$CMP EXI_BZX85_C9V1
+D Diodo regulador de voltaje
+$ENDCMP
+#
+$CMP EXI_D3SB10
+D Puente rectificador
+$ENDCMP
+#
+$CMP EXI_D3SB20
+D Puente rectificador
+$ENDCMP
+#
+$CMP EXI_D3SB40
+D Puente rectificador
+$ENDCMP
+#
+$CMP EXI_D3SB60
+D Puente rectificador
+$ENDCMP
+#
+$CMP EXI_D3SB80
+D Puente rectificador
+$ENDCMP
+#
+$CMP EXI_Diodo_Corriente
+D Diodo de corriente
+$ENDCMP
+#
+$CMP EXI_Diodo_PIN
+D Diodo PIN
+$ENDCMP
+#
+$CMP EXI_Diodo_Rectificador
+D Diodo rectificador
+$ENDCMP
+#
+$CMP EXI_Diodo_Schottky
+D Diodo Schottky
+$ENDCMP
+#
+$CMP EXI_Diodo_Tunel
+D Diodo tunel
+$ENDCMP
+#
+$CMP EXI_Diodo_Zener
+D Diodo regulador de voltaje
+$ENDCMP
+#
+$CMP EXI_Fotodiodo
+D Diodo fotosensible
+$ENDCMP
+#
+$CMP EXI_LED
+D Diodo emisor de luz
+$ENDCMP
+#
+$CMP EXI_Puente_Rectificador
+D Puente rectificador
+K bridge, rectifier
+$ENDCMP
+#
+$CMP EXI_RBV401G
+D Puente rectificador
+$ENDCMP
+#
+$CMP EXI_RBV402G
+D Puente rectificador
+$ENDCMP
+#
+$CMP EXI_RBV404G
+D Puente rectificador
+$ENDCMP
+#
+$CMP EXI_RBV406G
+D Puente rectificador
+$ENDCMP
+#
+$CMP EXI_RBV408G
+D Puente rectificador
+$ENDCMP
+#
+$CMP EXI_Termodiodo
+D Diodo termosensible
+$ENDCMP
+#
+$CMP EXI_UF5400
+D Diodo rectificador
+$ENDCMP
+#
+$CMP EXI_UF5401
+D Diodo rectificador
+$ENDCMP
+#
+$CMP EXI_UF5402
+D Diodo rectificador
+$ENDCMP
+#
+$CMP EXI_UF5403
+D Diodo rectificador
+$ENDCMP
+#
+$CMP EXI_UF5404
+D Diodo rectificador
+$ENDCMP
+#
+$CMP EXI_UF5406
+D Diodo rectificador
+$ENDCMP
+#
+$CMP EXI_UF5407
+D Diodo rectificador
+$ENDCMP
+#
+$CMP EXI_UF5408
+D Diodo rectificador
+$ENDCMP
+#
+$CMP EXI_Varactor
+D Varactor
+$ENDCMP
+#
+$CMP EXI_WB150
+D Puente rectificador
+$ENDCMP
+#
+$CMP EXI_WB151
+D Puente rectificador
+$ENDCMP
+#
+$CMP EXI_WB1510
+D Puente rectificador
+$ENDCMP
+#
+$CMP EXI_WB152
+D Puente rectificador
+$ENDCMP
+#
+$CMP EXI_WB154
+D Puente rectificador
+$ENDCMP
+#
+$CMP EXI_WB156
+D Puente rectificador
+$ENDCMP
+#
+$CMP EXI_WB158
+D Puente rectificador
+$ENDCMP
+#
+#End Doc Library

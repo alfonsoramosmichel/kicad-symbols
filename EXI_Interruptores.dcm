@@ -1,0 +1,47 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP Conmutador_3p2t
+D Conmutador 3p2t
+$ENDCMP
+#
+$CMP EXI_Conmutador_1x2
+D Conmutador 1 polo 2 tiros
+$ENDCMP
+#
+$CMP EXI_Conmutador_1x2_neutro
+D Conmutador de 1 polo y 2 tiros con posición neutral
+$ENDCMP
+#
+$CMP EXI_Conmutador_1x2_nvo
+D Conmutador 1 polo 2 tiros
+$ENDCMP
+#
+$CMP EXI_Interrupto_Piloto
+D Conmutador 1 polo 2 tiros
+$ENDCMP
+#
+$CMP EXI_Interruptor_1
+D Interruptor sencillo
+$ENDCMP
+#
+$CMP EXI_Interruptor_5
+D Interruptor quíntuple
+$ENDCMP
+#
+$CMP EXI_KDC3
+D Interruptor sencillo con luz piloto
+$ENDCMP
+#
+$CMP EXI_KDC3_NO_PCB
+D Interruptor sencillo con luz piloto
+$ENDCMP
+#
+$CMP EXI_Pulsador_NA
+D Pulsador normalmente abierto
+$ENDCMP
+#
+$CMP EXI_Pulsador_NC
+D Pulsador normalmente cerrado
+$ENDCMP
+#
+#End Doc Library
