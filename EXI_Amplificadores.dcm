@@ -1,0 +1,33 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP Comparador
+D Comparador
+K Comparador
+$ENDCMP
+#
+$CMP LM139
+D Low power low offset voltage quad comparators
+K Comparador
+$ENDCMP
+#
+$CMP LM239
+D Low power low offset voltage quad comparators
+K Comparador
+$ENDCMP
+#
+$CMP LM2901
+D Low power low offset voltage quad comparators
+K Comparador
+$ENDCMP
+#
+$CMP LM3302
+D Low power low offset voltage quad comparators
+K Comparador
+$ENDCMP
+#
+$CMP LM339
+D Low power low offset voltage quad comparators
+K Comparador
+$ENDCMP
+#
+#End Doc Library

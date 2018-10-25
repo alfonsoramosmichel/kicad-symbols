@@ -1,0 +1,22 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP EXI_Cristal
+D Cristal temporizador
+$ENDCMP
+#
+$CMP EXI_Fusible
+D Fusible
+K Fuse
+$ENDCMP
+#
+$CMP EXI_Lampara
+D Dispositivo emisor de luz
+K Foco, Luminaria
+$ENDCMP
+#
+$CMP EXI_Ventilador
+D Ventilador
+K ventilador
+$ENDCMP
+#
+#End Doc Library

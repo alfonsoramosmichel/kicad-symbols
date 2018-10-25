@@ -1,0 +1,74 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP EXI_Amperimetro_Horizontal
+D Amperímetro para conexiones Horizontales
+K instrumentación
+$ENDCMP
+#
+$CMP EXI_Amperimetro_Vertical
+D Amperímetro para conexiones Verticales
+K instrumentación
+$ENDCMP
+#
+$CMP EXI_Galvanometro_Horizontal
+D Galvanómetro para conexiones Horizontales
+K instrumentación
+$ENDCMP
+#
+$CMP EXI_Galvanometro_Vertical
+D Galvanómetro para conexiones Verticales
+K instrumentación
+$ENDCMP
+#
+$CMP EXI_MXP
+D Sensor de presión diferencial
+K instrumentacion
+$ENDCMP
+#
+$CMP EXI_Ohmetro_Horizontal
+D Óhmetro para conexiones Horizontales
+K instrumentación
+$ENDCMP
+#
+$CMP EXI_Ohmetro_Vertical
+D Óhmetro para conexiones Verticales
+K instrumentación
+$ENDCMP
+#
+$CMP EXI_Osciloscopio_2
+D Osciloscopio de 2 canales
+K instrumentacion
+$ENDCMP
+#
+$CMP EXI_Osciloscopio_4
+D Osciloscopio de 4 canales
+K instrumentacion
+$ENDCMP
+#
+$CMP EXI_Voltímetro_Horizontal
+D Voltímetro para conexiones Horizontales
+K instrumentación
+$ENDCMP
+#
+$CMP EXI_Voltímetro_Vertical
+D Voltímetro para conexiones Verticales
+K instrumentación
+$ENDCMP
+#
+$CMP EXI_RTD
+D Sensor de temperatura resistivo
+$ENDCMP
+#
+$CMP EXI_Termistor
+D Sensor de temperatura resistivo
+$ENDCMP
+#
+$CMP EXI_GP2Y0D340K
+D Sensor de distancia con salida digital 400mm
+$ENDCMP
+#
+$CMP EXI_QTR-1A
+D Sensor reflectivo infrarrojo
+$ENDCMP
+#
+#End Doc Library

@@ -1,0 +1,29 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP e'c
+D Condensador no polarizado,
+K cap, capacitor,
+F https://es.wikipedia.org/wiki/Condensador_el%C3%A9ctrico
+$ENDCMP
+#
+$CMP e'f
+D Alimentación por fuente de voltaje de onda senoidal
+K Alimentación
+$ENDCMP
+#
+$CMP e'fi
+D Alimentación por fuente de voltaje de onda senoidal
+K Alimentación
+$ENDCMP
+#
+$CMP e'i
+D Inductor
+K inductor, bobina, toroide
+$ENDCMP
+#
+$CMP e'r
+D Resistor
+K Resistencia
+$ENDCMP
+#
+#End Doc Library

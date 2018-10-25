@@ -1,0 +1,13 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 74LS132
+D Quad Nand2 schmitt trigger
+K TTL Nand2
+$ENDCMP
+#
+$CMP EXI_74LS132
+D Quad Nand2 schmitt trigger
+K TTL Nand2
+$ENDCMP
+#
+#End Doc Library

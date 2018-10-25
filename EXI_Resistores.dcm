@@ -1,0 +1,94 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 100K
+D Resistor de 220 ohms
+K Resistencia
+$ENDCMP
+#
+$CMP 10K
+D Resistor de 220 ohms
+K Resistencia
+$ENDCMP
+#
+$CMP 1K
+D Resistor de 220 ohms
+K Resistencia
+$ENDCMP
+#
+$CMP 2k2
+D Resistor de 220 ohms
+K Resistencia
+$ENDCMP
+#
+$CMP 33K
+D Resistor de 220 ohms
+K Resistencia
+$ENDCMP
+#
+$CMP 39
+D Resistor de 220 ohms
+K Resistencia
+$ENDCMP
+#
+$CMP 3k9
+D Resistor de 220 ohms
+K Resistencia
+$ENDCMP
+#
+$CMP 470
+D Resistor de 220 ohms
+K Resistencia
+$ENDCMP
+#
+$CMP 47K
+D Resistor de 220 ohms
+K Resistencia
+$ENDCMP
+#
+$CMP 4K7
+D Resistor de 220 ohms
+K Resistencia
+$ENDCMP
+#
+$CMP EXI_Fotorresistor
+D Resistor fotosensible
+K LDR
+$ENDCMP
+#
+$CMP EXI_Potenciómetro
+D Resistor variable
+$ENDCMP
+#
+$CMP EXI_Preajustador
+D Resistor preajustable
+K Trimpot, preset
+$ENDCMP
+#
+$CMP EXI_Reostato
+D Resistor variable
+$ENDCMP
+#
+$CMP EXI_Resistor
+D Resistor
+K Resistencia
+$ENDCMP
+#
+$CMP EXI_Resistor_2
+D General pourpose resistor.
+K Resistor, charge, current limiter
+$ENDCMP
+#
+$CMP EXI_Varistor
+D Varistor
+$ENDCMP
+#
+$CMP R220
+D Resistor de 220 ohms
+K Resistencia
+$ENDCMP
+#
+$CMP p25k
+D Resistor variable
+$ENDCMP
+#
+#End Doc Library

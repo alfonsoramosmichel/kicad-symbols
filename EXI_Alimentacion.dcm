@@ -1,0 +1,77 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP EXI_Alimentación_Corriente
+D Referencia de corriente respecto a masa
+K Alimentación, Referencia
+$ENDCMP
+#
+$CMP EXI_Alimentación_Señal_Cuadrada
+D Referencia de voltaje de onda cuadrada respecto a masa
+K Aliementación, Referencia
+$ENDCMP
+#
+$CMP EXI_Alimentación_Señal_Senoidal
+D Referencia de voltaje de onda senoidal respecto a masa
+K Referencia, Alimentación
+$ENDCMP
+#
+$CMP EXI_Alimentación_Señal_Sierra
+D Referencia de voltaje de onda diente de sierra respecto a masa
+K Referencia, Alimentación
+$ENDCMP
+#
+$CMP EXI_Alimentación_Señal_Triangular
+D Referencia de voltaje triangular de sierra respecto a masa
+K Referencia, Alimentación
+$ENDCMP
+#
+$CMP EXI_Fuente_Corriente
+D Alimentación con fuente de corriente
+K Alimentación
+$ENDCMP
+#
+$CMP EXI_Fuente_Dependiente_Corriente
+D Alimentación por fuente dependiente de corriente
+K Alimentación
+$ENDCMP
+#
+$CMP EXI_Fuente_Dependiente_Voltaje
+D Alimentación por fuente dependiente de voltaje
+K Alimentación
+$ENDCMP
+#
+$CMP EXI_Fuente_Voltaje
+D Alimentación por fuente de voltaje de corriente directa
+K Alimentación
+$ENDCMP
+#
+$CMP EXI_Funcion_Cuadrada
+D Alimentación por fuente de voltaje de onda cuadrada
+K Alimentación
+$ENDCMP
+#
+$CMP EXI_Funcion_Senoidal
+D Alimentación por fuente de voltaje de onda senoidal
+K Alimentación
+$ENDCMP
+#
+$CMP EXI_Funcion_Sierra
+D Alimentación por fuente de voltaje de onda diente de sierra
+K Alimentación
+$ENDCMP
+#
+$CMP EXI_Funcion_Triangular
+D Alimentación por fuente de voltaje de onda triangular
+K Alimentación
+$ENDCMP
+#
+$CMP GND
+K POWER, PWR
+$ENDCMP
+#
+$CMP Voltaje
+D Referencia a voltaje definido por el usuario
+K Alimentación, Referencia
+$ENDCMP
+#
+#End Doc Library

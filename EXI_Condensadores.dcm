@@ -1,0 +1,21 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP EXI_Condensador
+D Condensador no polarizado,
+K cap, capacitor,
+F https://es.wikipedia.org/wiki/Condensador_el%C3%A9ctrico
+$ENDCMP
+#
+$CMP EXI_Condensador_Polarizado
+D Condesador polarizado
+$ENDCMP
+#
+$CMP EXI_Condensador_Preajuste
+D Condensador preajustable
+$ENDCMP
+#
+$CMP EXI_Condensador_Variable
+D Condensador variable
+$ENDCMP
+#
+#End Doc Library

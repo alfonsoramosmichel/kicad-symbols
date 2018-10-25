@@ -1,0 +1,43 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP EXI_Inductor
+D Inductor
+K inductor, bobina, toroide
+$ENDCMP
+#
+$CMP EXI_Relevador_Conmutador_1x2
+D Relevador electromecánico con conmutador de 2 posiciones
+K relevador, conmutador
+$ENDCMP
+#
+$CMP EXI_Relevador_Conmutador_1x2_doble
+D Relevador electromecánico con doble conmutador de 2 posiciones
+K relevador, conmutador
+$ENDCMP
+#
+$CMP EXI_Relevador_Interruptor_NA
+D Relevador electromecánico con interruptor normalmente abierto
+K relevador, interruptor
+$ENDCMP
+#
+$CMP EXI_Relevador_Interruptor_NC
+D Relevador electromecánico con interruptor normalmente cerrado
+K relevador, conmutador
+$ENDCMP
+#
+$CMP EXI_Transformador
+D Transformador
+K transformador
+$ENDCMP
+#
+$CMP EXI_Transformador_Derivacion_x1
+D Transformador con derivación central
+K transformador
+$ENDCMP
+#
+$CMP SUN_HOLD_RAS1210
+D SUN_HOLD_RELAY_12V
+K Single Pole Relay
+$ENDCMP
+#
+#End Doc Library

@@ -1,0 +1,85 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#
+# e'c
+#
+DEF ~e'c C 0 0 Y N 1 F N
+F0 "C" -100 0 50 H I R CNN
+F1 "e'c" -100 -100 50 H I R CNN
+F2 "" -200 -100 50 H I C CNN
+F3 "" 0 0 50 H V C CNN
+$FPLIST
+ C*
+ EXI*Condensador*
+$ENDFPLIST
+DRAW
+P 2 0 1 10 -75 -25 75 -25 N
+P 2 0 1 10 -75 25 75 25 N
+X ~ ~ 0 -200 175 U 50 50 1 1 P
+X ~ ~ 0 200 175 D 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# e'f
+#
+DEF ~e'f #V 0 0 N N 1 F N
+F0 "#V" -125 100 50 H I R CNN
+F1 "e'f" 125 -20 50 H I L CNN
+F2 "" 0 0 50 H V C CNN
+F3 "" 0 0 50 H V C CNN
+DRAW
+A -37 0 37 1 1799 0 1 10 N 0 0 -75 0
+A 37 0 37 -1799 -1 0 1 10 N 0 0 75 0
+C 0 0 100 0 1 10 N
+X ~ 1 0 200 100 D 50 50 1 1 P
+X ~ 2 0 -200 100 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# e'fi
+#
+DEF ~e'fi #V 0 0 N N 1 F N
+F0 "#V" -125 100 50 H I R CNN
+F1 "e'fi" 125 -20 50 H I L CNN
+F2 "" 0 0 50 H V C CNN
+F3 "" 0 0 50 H V C CNN
+DRAW
+A -37 0 37 1 1799 0 1 10 N 0 0 -75 0
+A 37 0 37 -1799 -1 0 1 10 N 0 0 75 0
+C 0 0 100 0 1 10 N
+P 2 0 1 0 150 -70 150 80 N
+P 4 0 1 0 150 80 130 40 170 40 150 80 F
+X ~ 1 0 200 100 D 50 50 1 1 P
+X ~ 2 0 -200 100 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# e'i
+#
+DEF ~e'i I 0 0 N N 1 F N
+F0 "I" 0 -100 50 H I C CNN
+F1 "e'i" 0 100 50 H I C CNN
+F2 "" 0 0 60 H V C CNN
+F3 "" 0 0 60 H V C CNN
+DRAW
+S 120 30 -120 -30 0 1 0 F
+X ~ 1 -200 0 80 R 50 50 1 1 P
+X ~ 2 200 0 80 L 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# e'r
+#
+DEF ~e'r R 0 0 N N 1 F N
+F0 "R" 0 0 50 H I C CNN
+F1 "e'r" 0 100 50 H I C CNN
+F2 "" 0 0 50 H V C CNN
+F3 "" 0 0 50 H V C CNN
+DRAW
+S -130 40 130 -40 0 1 10 N
+X ~ 1 -200 0 70 R 50 50 1 1 P
+X ~ 2 200 0 70 L 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+#End Library

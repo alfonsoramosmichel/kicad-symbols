@@ -1,0 +1,74 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 2N3904
+D Transistor de silicio para aplicaciones de switcheo
+K npn transistor
+$ENDCMP
+#
+$CMP EXI_DMOSFETN
+D Transistor de efecto de campo metal oxido semiconductor canal N
+$ENDCMP
+#
+$CMP EXI_DMOSFETP
+D Transistor de efecto de campo metal oxido semiconductor canal P
+$ENDCMP
+#
+$CMP EXI_EMOSFETN
+D Transistor de efecto de campo metal oxido semiconductor canal N
+$ENDCMP
+#
+$CMP EXI_EMOSFETP
+D Transistor de efecto de campo metal oxido semiconductor canal P
+$ENDCMP
+#
+$CMP EXI_Fototransistor
+D Transistor fotosensible
+$ENDCMP
+#
+$CMP EXI_JFETN
+D Transistor de efecto de campo canal N
+$ENDCMP
+#
+$CMP EXI_JFETP
+D Transistor de efecto de campo canal P
+$ENDCMP
+#
+$CMP EXI_SCR
+D Rectificador controlado de silicio
+K Tiristor
+$ENDCMP
+#
+$CMP EXI_TRIAC
+D Triodo para corriente alterna
+$ENDCMP
+#
+$CMP EXI_Transistor_NPN
+D Transistor de unión bipolar NPN
+K BJT
+$ENDCMP
+#
+$CMP EXI_Transistor_PNP
+D Transistor de unión bipolar PNP
+K BJT
+$ENDCMP
+#
+$CMP EXI_UJT
+D Transistor monounión
+$ENDCMP
+#
+$CMP IRG4BC20KD
+D Transistor N-IGBT with ultrafast soft recovery diode
+K igbt n-igbt transistor
+F http://www.irf.com/product-info/datasheets/data/irg4bc20kd.pdf
+$ENDCMP
+#
+$CMP Q4015L5
+D Triodo para corriente alterna
+$ENDCMP
+#
+$CMP TIP41
+D Transistor de silicio para aplicaciones de switcheo
+K npn transistor
+$ENDCMP
+#
+#End Doc Library

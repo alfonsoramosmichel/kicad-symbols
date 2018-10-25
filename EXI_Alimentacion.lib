@@ -1,0 +1,246 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#
+# EXI_Alimentación_Corriente
+#
+DEF EXI_Alimentación_Corriente #I 0 0 N N 1 F N
+F0 "#I" -10 50 50 H I R CNN
+F1 "EXI_Alimentación_Corriente" 0 150 50 H V C CNN
+F2 "" 0 0 50 H V C CNN
+F3 "" 0 0 50 H V C CNN
+DRAW
+P 2 0 1 10 -100 100 100 100 N
+P 2 0 1 10 0 0 0 100 N
+P 5 0 1 10 20 70 90 70 70 80 70 60 90 70 F
+X ~ 1 0 0 0 U 50 50 1 1 I N
+ENDDRAW
+ENDDEF
+#
+# EXI_Alimentación_Señal_Cuadrada
+#
+DEF EXI_Alimentación_Señal_Cuadrada #V 0 0 N N 1 F N
+F0 "#V" -10 50 50 H I R CNN
+F1 "EXI_Alimentación_Señal_Cuadrada" 0 150 50 H V C CNN
+F2 "" 0 0 50 H V C CNN
+F3 "" 0 0 50 H V C CNN
+DRAW
+P 2 0 1 10 -100 100 100 100 N
+P 2 0 1 10 0 0 0 100 N
+P 6 0 1 10 20 60 20 80 50 80 50 40 80 40 80 60 N
+X ~ 1 0 0 0 U 50 50 1 1 W N
+ENDDRAW
+ENDDEF
+#
+# EXI_Alimentación_Señal_Senoidal
+#
+DEF EXI_Alimentación_Señal_Senoidal #V 0 0 N N 1 F N
+F0 "#V" -10 50 50 H I R CNN
+F1 "EXI_Alimentación_Señal_Senoidal" 0 150 50 H V C CNN
+F2 "" 0 0 50 H V C CNN
+F3 "" 0 0 50 H V C CNN
+DRAW
+A 30 60 20 1 1799 0 1 10 N 50 60 10 60
+A 70 60 20 -1799 -1 0 1 10 N 50 60 90 60
+P 2 0 1 10 -100 100 100 100 N
+P 2 0 1 10 0 0 0 100 N
+X ~ 1 0 0 0 U 50 50 1 1 W N
+ENDDRAW
+ENDDEF
+#
+# EXI_Alimentación_Señal_Sierra
+#
+DEF EXI_Alimentación_Señal_Sierra #V 0 0 N N 1 F N
+F0 "#V" -10 50 50 H I R CNN
+F1 "EXI_Alimentación_Señal_Sierra" 0 150 50 H V C CNN
+F2 "" 0 0 50 H V C CNN
+F3 "" 0 0 50 H V C CNN
+DRAW
+P 2 0 1 10 -100 100 100 100 N
+P 2 0 1 10 0 0 0 100 N
+P 5 0 1 10 20 40 20 80 50 40 50 80 80 40 N
+X ~ 1 0 0 0 U 50 50 1 1 W N
+ENDDRAW
+ENDDEF
+#
+# EXI_Alimentación_Señal_Triangular
+#
+DEF EXI_Alimentación_Señal_Triangular #V 0 0 N N 1 F N
+F0 "#V" -10 50 50 H I R CNN
+F1 "EXI_Alimentación_Señal_Triangular" 0 150 50 H V C CNN
+F2 "" 0 0 50 H V C CNN
+F3 "" 0 0 50 H V C CNN
+DRAW
+P 2 0 1 10 -100 100 100 100 N
+P 2 0 1 10 0 0 0 100 N
+P 2 0 1 10 30 80 15 60 N
+P 3 0 1 10 30 80 70 40 90 60 N
+X ~ 1 0 0 0 U 50 50 1 1 W N
+ENDDRAW
+ENDDEF
+#
+# EXI_Fuente_Corriente
+#
+DEF EXI_Fuente_Corriente #I 0 0 N N 1 F N
+F0 "#I" -125 100 50 H I R CNN
+F1 "EXI_Fuente_Corriente" 125 0 50 H V L CNN
+F2 "" 0 0 50 H V C CNN
+F3 "" 0 0 50 H V C CNN
+DRAW
+C 0 0 100 0 1 10 N
+P 5 0 1 10 0 -50 0 50 -10 40 10 40 0 50 N
+X ~ 1 0 200 100 D 50 50 1 1 P
+X ~ 2 0 -200 100 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# EXI_Fuente_Dependiente_Corriente
+#
+DEF EXI_Fuente_Dependiente_Corriente #I 0 0 N N 1 F N
+F0 "#I" -75 100 50 H I R CNN
+F1 "EXI_Fuente_Dependiente_Corriente" 125 0 50 H V L CNN
+F2 "" 0 0 50 H V C CNN
+F3 "" 0 0 50 H V C CNN
+DRAW
+P 5 0 1 10 0 -50 0 50 -20 30 20 30 0 50 F
+P 5 0 1 10 0 100 -100 0 0 -100 100 0 0 100 N
+X ~ 1 0 200 100 D 50 50 1 1 P
+X ~ 2 0 -200 100 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# EXI_Fuente_Dependiente_Voltaje
+#
+DEF EXI_Fuente_Dependiente_Voltaje #V 0 0 N N 1 F N
+F0 "#V" -75 100 50 H I R CNN
+F1 "EXI_Fuente_Dependiente_Voltaje" 125 0 50 H V L CNN
+F2 "" 0 0 50 H V C CNN
+F3 "" 0 0 50 H V C CNN
+DRAW
+P 2 0 1 10 -20 -50 20 -50 N
+P 2 0 1 10 -20 50 20 50 N
+P 2 0 1 10 0 70 0 30 N
+P 5 0 1 10 0 100 -100 0 0 -100 100 0 0 100 N
+X ~ 1 0 200 100 D 50 50 1 1 P
+X ~ 2 0 -200 100 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# EXI_Fuente_Voltaje
+#
+DEF EXI_Fuente_Voltaje #V 0 0 N N 1 F N
+F0 "#V" -125 100 50 H I R CNN
+F1 "EXI_Fuente_Voltaje" 125 0 50 H V L CNN
+F2 "" 0 0 50 H V C CNN
+F3 "" 0 0 50 H V C CNN
+DRAW
+C 0 0 100 0 1 10 N
+P 2 0 1 10 -20 -50 20 -50 N
+P 2 0 1 10 -20 50 20 50 N
+P 2 0 1 10 0 70 0 30 N
+X ~ 1 0 200 100 D 50 50 1 1 P
+X ~ 2 0 -200 100 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# EXI_Funcion_Cuadrada
+#
+DEF EXI_Funcion_Cuadrada #V 0 0 N N 1 F N
+F0 "#V" -125 100 50 H I R CNN
+F1 "EXI_Funcion_Cuadrada" 125 0 50 H V L CNN
+F2 "" 0 0 50 H V C CNN
+F3 "" 0 0 50 H V C CNN
+DRAW
+C 0 0 100 0 1 10 N
+P 6 0 1 10 -50 0 -50 50 0 50 0 -50 50 -50 50 0 N
+X ~ 1 0 200 100 D 50 50 1 1 P
+X ~ 2 0 -200 100 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# EXI_Funcion_Senoidal
+#
+DEF EXI_Funcion_Senoidal #V 0 0 N N 1 F N
+F0 "#V" -125 100 50 H I R CNN
+F1 "EXI_Funcion_Senoidal" 125 0 50 H V L CNN
+F2 "" 0 0 50 H V C CNN
+F3 "" 0 0 50 H V C CNN
+DRAW
+A -37 0 37 1 1799 0 1 10 N 0 0 -75 0
+A 37 0 37 -1799 -1 0 1 10 N 0 0 75 0
+C 0 0 100 0 1 10 N
+X ~ 1 0 200 100 D 50 50 1 1 P
+X ~ 2 0 -200 100 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# EXI_Funcion_Sierra
+#
+DEF EXI_Funcion_Sierra #V 0 0 N N 1 F N
+F0 "#V" -125 100 50 H I R CNN
+F1 "EXI_Funcion_Sierra" 125 0 50 H V L CNN
+F2 "" 0 0 50 H V C CNN
+F3 "" 0 0 50 H V C CNN
+DRAW
+C 0 0 100 0 1 10 N
+P 5 0 1 10 -50 -25 -50 25 0 -25 0 25 50 -25 N
+X ~ 1 0 200 100 D 50 50 1 1 P
+X ~ 2 0 -200 100 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# EXI_Funcion_Triangular
+#
+DEF EXI_Funcion_Triangular #V 0 0 N N 1 F N
+F0 "#V" -125 100 50 H I R CNN
+F1 "EXI_Funcion_Triangular" 125 0 50 H V L CNN
+F2 "" 0 0 50 H V C CNN
+F3 "" 0 0 50 H V C CNN
+DRAW
+C 0 0 100 0 1 10 N
+P 4 0 1 10 -50 0 -25 50 25 -50 50 0 N
+X ~ 1 0 200 100 D 50 50 1 1 P
+X ~ 2 0 -200 100 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# GND
+#
+DEF GND #PWR 0 0 Y Y 1 F P
+F0 "#PWR" 0 -250 50 H I C CNN
+F1 "GND" 0 -150 50 H V C CNN
+F2 "" 0 0 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+DRAW
+P 2 0 1 0 -50 -100 50 -100 N
+P 2 0 1 0 0 0 0 -100 N
+X GND 1 0 0 0 D 50 50 1 1 W N
+ENDDRAW
+ENDDEF
+#
+# Voltaje
+#
+DEF Voltaje #v 0 0 Y N 1 F N
+F0 "#v" -50 50 50 H I C CNN
+F1 "Voltaje" 0 150 50 H V C CNN
+F2 "" 0 0 50 H V C CNN
+F3 "" 0 0 50 H V C CNN
+DRAW
+P 2 0 1 10 -50 100 50 100 N
+P 2 0 1 10 0 0 0 100 N
+X ~ ~ 0 0 0 U 30 30 1 1 P N
+ENDDRAW
+ENDDEF
+#
+# power_symbol
+#
+DEF ~power_symbol #FLG 0 0 N N 1 F P
+F0 "#FLG" 0 75 50 H I C CNN
+F1 "power_symbol" 0 150 50 H I C CNN
+F2 "" 0 0 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+DRAW
+X pwr 1 0 0 100 U 50 50 0 0 w N
+ENDDRAW
+ENDDEF
+#
+#End Library

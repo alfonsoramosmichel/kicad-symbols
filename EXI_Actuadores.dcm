@@ -1,0 +1,13 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP EXI_motor_CA
+D Motor de alimentación con corriente alterna
+K Motor
+$ENDCMP
+#
+$CMP EXI_motor_CD
+D Alimentación por fuente de voltaje de corriente directa
+K Alimentación
+$ENDCMP
+#
+#End Doc Library

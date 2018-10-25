@@ -1,0 +1,23 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP EXI_Indicador_Corriente
+D Indicador de corriente sobre la línea de circuito
+K simbologia
+$ENDCMP
+#
+$CMP EXI_Nodo
+D Indicador de nodo
+K simbologia
+$ENDCMP
+#
+$CMP EXI_Referencia_Horizontal
+D Indicador de voltaje con respecto a masa para indicación vertical
+K simbologia
+$ENDCMP
+#
+$CMP EXI_Referencia_Vertical
+D Indicador de voltaje con respecto a masa para indicación vertical
+K simbologia
+$ENDCMP
+#
+#End Doc Library

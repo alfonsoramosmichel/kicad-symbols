@@ -1,0 +1,14 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP LM138T
+D Regulador de voltaje ajustable positivo 5A
+K POWER regulador
+F /usr/share/kicad/doc/Reguladores/lm338 - national.pdf
+$ENDCMP
+#
+$CMP LM338T
+D Regulador ajustable 1.2 - 32V 5A
+F http://pdf1.alldatasheet.es/datasheet-pdf/view/8646/NSC/LM338T.html
+$ENDCMP
+#
+#End Doc Library
