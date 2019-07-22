@@ -816,6 +816,12 @@ K LED diode
 F ~
 $ENDCMP
 #
+$CMP LED_ABRG
+D RGB LED, anode/blue/red/green
+K LED RGB diode
+F ~
+$ENDCMP
+#
 $CMP LED_ALT
 D Light emitting diode, filled shape
 K LED diode
@@ -2060,6 +2066,12 @@ $ENDCMP
 #
 $CMP R_POT_Dual_Separate
 D Dual potentiometer, separate units
+K resistor variable
+F ~
+$ENDCMP
+#
+$CMP R_POT_Small
+D Potentiometer
 K resistor variable
 F ~
 $ENDCMP
